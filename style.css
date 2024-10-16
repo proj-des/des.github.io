@@ -1,0 +1,19 @@
+button {
+    background-color: burlywood;
+}
+/*this is also a thing i wanna try out. just saving this for later...*/
+.spacer {
+    margin: 1em;
+}
+/*note that the spacer is for whatever, delete when dont need*/
+.hoverable {
+    transition: 0.3s;
+}
+.hoverable:hover {
+    transform: translateY(-5px);
+}
+img{
+    display: block;
+    width: 60%;
+    margin: auto;
+}
